@@ -27,7 +27,7 @@
 
 ##### If you chose a relational datastore; what alternative NoSQL datastore would you use? Why? And vice-versa?
 
-- I would choose DynamoDB because it above architecture is based on AWS infrasturcture. 
+- I would choose DynamoDB because above architecture is based on AWS infrastructure as well if there is no relationship require. 
 
 ##### Implement front-end using a modern Javascript SPA framework
  - can implement but due to time i haven't
